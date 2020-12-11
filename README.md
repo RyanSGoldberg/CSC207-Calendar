@@ -5,6 +5,7 @@ This repository has been copied over from a previous private repository.
 
 ## A summary of the number of contributions and links to the authors github pages are listed Below:
 % git shortlog -s
+
      5  Markus
     97  Ryan Goldberg - github.com/RyanSGoldberg/
     36  abhigyachhabra 
